@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Santosh</h1>
 <h3 align="center">I'm a ML Engineer currently working at a Deep Tech startup in India.</h3>
+- I'm currently exploring creating LLM agents for different use cases
 
 - 👯 I’m open to **All collaborations in the Deep Learning space**
 
 - 💬 Ask me about **Deep Learning, Gen AI in Vision, NLP**
 
 - 📫 How to reach me **santoshramakrishnan24@gmail.com**
-
-- Outside Tech **I love acrylic painting, and doodling on ProCreate. I'm currently training for a sub 1 hour 10K**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
