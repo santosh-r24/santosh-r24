@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **santoshramakrishnan24@gmail.com**
 
+- 📝 I regularly write tech related articles on [https://santosh-r24.github.io/](https://santosh-r24.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/santoshkutti24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshkutti24" height="30" width="40" /></a>
