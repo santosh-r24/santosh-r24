@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Santosh</h1>
 <h3 align="center">I'm a ML Engineer currently working at a Deep Tech startup in India.</h3>
-- I'm currently wokring on a LLM agent for the Gemini comptetion, have a look! [Taskbreakdown](https://taskbreakdown.streamlit.app/)
+- I'm currently wokring on a LLM agent for the Gemini comptetion, have a look [Taskbreakdown](https://taskbreakdown.streamlit.app/)!
 
 - 👯 I’m open to **All collaborations in the Deep Learning space**
 
