@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Santosh</h1>
 <h3 align="center">I'm a ML Engineer currently working at a Deep Tech startup in India.</h3>
-- I'm currently exploring creating LLM agents for different use cases
+- I'm currently wokring on a LLM agent for the Gemini comptetion, have a look! [Taskbreakdown](https://taskbreakdown.streamlit.app/)
 
 - 👯 I’m open to **All collaborations in the Deep Learning space**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **santoshramakrishnan24@gmail.com**
 
-- 📝 I regularly write tech related articles on [https://santosh-r24.github.io/](https://santosh-r24.github.io/)
+- 📝 I write tech related articles on [https://santosh-r24.github.io/](https://santosh-r24.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
