@@ -3,7 +3,9 @@
 
 - Currently working on a Generative AI project along the content creation space 
 
-- I submitted a project for Gemini developer competition, have a look [Taskbreakdown](https://taskbreakdown.streamlit.app/)
+- Check out the digital Avatar Voice agent here [Vegeta AI](https://huggingface.co/spaces/santoshr24/vegeta_chat_v2?logs=container)
+
+- I submitted a project for Gemini developer competition, have a look [Taskbreakdown video demo](https://www.youtube.com/watch?v=kK-85szImcc)
 
 - 👯 I’m open to **All collaborations in the Deep Learning space**
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **santoshramakrishnan24@gmail.com**
 
-- 📝 I write tech related articles on [https://santosh-r24.github.io/](https://santosh-r24.github.io/)
+- 📝 Check out my Portfolio here [https://santosh-r24.github.io/](https://santosh-r24.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
